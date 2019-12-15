@@ -71,3 +71,13 @@ bottombar { background: #232526;  /* fallback for old browsers */
             height: 30px;
             position: fixed;
             }
+.content {  background-color: #fafafa;
+            position: fixed;
+            top: 250px;
+            left: 17%;
+            width: 66%;
+            z-index: 5;
+            overflow-x: hidden;
+            overflow-y: auto;
+            border-left: 2px dashed #232323;
+            }
