@@ -71,7 +71,7 @@ bottombar { background: #232526;  /* fallback for old browsers */
             height: 30px;
             position: fixed;
             }
-content {  background-color: #fafafa;
+.content {  background-color: #fafafa;
             position: fixed;
             top: 250px;
             left: 17%;
